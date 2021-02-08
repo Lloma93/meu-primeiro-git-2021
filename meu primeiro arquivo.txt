@@ -1,0 +1,5 @@
+$ git add nome-arquivo
+$ git status 
+$ git add . 
+$ git add *
+$ git log
